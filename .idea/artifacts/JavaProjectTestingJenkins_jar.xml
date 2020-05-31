@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaProjectTestingJenkins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaProjectTestingJenkins_jar</output-path>
+    <root id="archive" name="JavaProjectTestingJenkins.jar">
+      <element id="module-output" name="JavaProjectTestingJenkins" />
+    </root>
+  </artifact>
+</component>
